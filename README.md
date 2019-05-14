@@ -4,7 +4,7 @@
 
 ### `js`
 
-SpiderMonkey build (Firefox's JavaScript engine). You can find a prebuilt version here (Linux x64 opt): https://taskcluster-artifacts.net/QQMh7zQHRbmI-afc8HK8Ag/0/public/build/js.
+SpiderMonkey build (Firefox's JavaScript engine). You can find a prebuilt version here: https://download-origin.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central/.
 
 Atlernatively you can build it from source: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Build_Documentation.
 
